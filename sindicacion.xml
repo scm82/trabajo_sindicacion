@@ -2,12 +2,8 @@
 <rss version="2.0">
 <channel>
 <title>sindicacion</title>
-<link>https://scm82.github.io/trabajo_RSS/</link>
+<link>https://scm82.github.io/trabajo_sindicacion/index.html</link>
 <description>Trabajo de sindicacion</description>
-    <item>
-        <title>Indice</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/index.html</link>
-    </item>
     <item>
         <title>Hoja Uno</title>
         <link>https://scm82.github.io/trabajo_sindicacion/1.html</link>
