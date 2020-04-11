@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel>
-<title>sindicacion</title>
-<link>https://scm82.github.io/trabajo_sindicacion/</link>
-<description>Trabajo de sindicacion</description>
-    <item>
-        <title>Hoja Uno</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/1.html</link>
-    </item>
-    <item>
-        <title>Hoja Dos</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/2.html</link>
-    </item>
-    <item>
-        <title>Hoja Tres</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/3.html</link>
-    </item>
-    <item>
-        <title>Hoja Cuatro</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/4.html</link>
-    </item>
-    <item>
-        <title>Hoja Cinco</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/5.html</link>
-    </item>
-    <item>
-        <title>Hoja Seis</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/6.html</link>
-    </item>
-    <item>
-        <title>Hoja Siete</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/7.html</link>
-    </item>
-    <item>
-        <title>Hoja Ocho</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/8.html</link>
-    </item>
-    <item>
-        <title>Hoja Nueve</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/9.html</link>
-    </item>
-    <item>
-        <title>Hoja Diez</title>
-        <link>https://scm82.github.io/trabajo_sindicacion/10.html</link>
-    </item>
-</channel>
+    <channel>
+        <title>sindicacion</title>
+        <link>https://scm82.github.io/trabajo_sindicacion/</link>
+        <description>Trabajo de sindicacion</description>
+        <item>
+            <title>Hoja Uno</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/1.html</link>
+        </item>
+        <item>
+            <title>Hoja Dos</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/2.html</link>
+        </item>
+        <item>
+            <title>Hoja Tres</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/3.html</link>
+        </item>
+        <item>
+            <title>Hoja Cuatro</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/4.html</link>
+        </item>
+        <item>
+            <title>Hoja Cinco</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/5.html</link>
+        </item>
+        <item>
+            <title>Hoja Seis</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/6.html</link>
+        </item>
+        <item>
+            <title>Hoja Siete</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/7.html</link>
+        </item>
+        <item>
+            <title>Hoja Ocho</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/8.html</link>
+        </item>
+        <item>
+            <title>Hoja Nueve</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/9.html</link>
+        </item>
+        <item>
+            <title>Hoja Diez</title>
+            <link>https://scm82.github.io/trabajo_sindicacion/10.html</link>
+        </item>
+    </channel>
 </rss>
