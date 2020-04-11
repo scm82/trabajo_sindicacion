@@ -7,43 +7,52 @@
         <item>
             <title>Hoja Uno</title>
             <link>https://scm82.github.io/trabajo_sindicacion/1.html</link>
-            <description>Arte</description>
+            <description>ARTE</description>  
         </item>
         <item>
             <title>Hoja Dos</title>
             <link>https://scm82.github.io/trabajo_sindicacion/2.html</link>
+            <description>ESCULTURA</description>
         </item>
         <item>
             <title>Hoja Tres</title>
             <link>https://scm82.github.io/trabajo_sindicacion/3.html</link>
+            <description>IDIOMAS</description>
         </item>
         <item>
             <title>Hoja Cuatro</title>
             <link>https://scm82.github.io/trabajo_sindicacion/4.html</link>
+            <description>OBJETOS</description>
         </item>
         <item>
             <title>Hoja Cinco</title>
             <link>https://scm82.github.io/trabajo_sindicacion/5.html</link>
+            <description>UTENSILIOS</description>
         </item>
         <item>
             <title>Hoja Seis</title>
             <link>https://scm82.github.io/trabajo_sindicacion/6.html</link>
+            <description>ZARANDAJAS</description>
         </item>
         <item>
             <title>Hoja Siete</title>
             <link>https://scm82.github.io/trabajo_sindicacion/7.html</link>
+            <description>LIBROS</description>
         </item>
         <item>
             <title>Hoja Ocho</title>
             <link>https://scm82.github.io/trabajo_sindicacion/8.html</link>
+            <description>DESCRIPCIONES</description>
         </item>
         <item>
             <title>Hoja Nueve</title>
             <link>https://scm82.github.io/trabajo_sindicacion/9.html</link>
+            <description>ORGANIZACION</description>
         </item>
         <item>
             <title>Hoja Diez</title>
             <link>https://scm82.github.io/trabajo_sindicacion/10.html</link>
+            <description>PRESION</description>
         </item>
     </channel>
 </rss>
